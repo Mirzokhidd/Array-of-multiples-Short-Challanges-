@@ -1,3 +1,8 @@
+//You can run the code through the terminal by specifying the path and running the text, "node java.ja"
+//Or you can just run it rhought the 'Run code' to output function of visual studious
+
+//-------------------------------------------------------------------------------------------------------------
+
 /*Program which takes in the first unit and multiplies it up to the second number:
 
 
